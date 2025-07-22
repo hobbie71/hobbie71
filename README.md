@@ -14,7 +14,7 @@
 - 🧪 Tools & Technologies: Node.js, FFmpeg, Git, RESTful APIs, VSCode
 
 ## 📌 Featured Projects
-🎥 [AI Volleyball Video Editor](https://github.com/hobbie71/AI-Volleyball-Video-Editor)
+🏐 [AI Volleyball Video Editor](https://github.com/hobbie71/AI-Volleyball-Video-Editor)
 
 #### Project Goal: Turning raw volleyball footage into polished, YouTube-ready videos
 
@@ -23,30 +23,20 @@ game segmentation
 
 Currently in progress...
 
-## 📫 Connect with me
+## 📫 Connect With Me
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="center" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] **LinkedIn**: [linkedin.com/in/javi-learning][linkedin] 
+[<img align="center" alt="LinkedIn" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin] **LinkedIn**: [linkedin.com/in/javi-learning][linkedin] 
 
-[<img align="center" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email] **Email**: [javierj.tamayo@gmail.com][email]
+[<img align="center" alt="Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email] **Email**: [javierj.tamayo@gmail.com][email]
 
 <br />
+
 <!--
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][Website]
-[<img align="left" alt="Phython" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][Website]
-[<img align="left" alt="Ruby" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />][Website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Website]
-
-<br/>
-<br/>   
+GitHub Icon
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="20px" />]
+Website/Portfolio	Icon
+[<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="20px" />]
 -->
 
 [linkedin]: https://www.linkedin.com/in/javilearning
