@@ -1,21 +1,37 @@
-# Hey, I'm Javi <!-- [website] 👋 -->
+## 👋 Hey, I'm Javi <!-- [website] -->
 
 <!-- [![Website](https://img.shields.io/badge/BUGSIE71.COM-Go-brightgreen)](https://bugsie71.com) -->
 
-## I am a Developer, Digital Marketer, and Student.
+## ⚙️ I am a Developer and Digital Marketer
 
-- 📈 Always looking to grow and learn, currently looking to expand my knowledge through experience
+- 📈 Always looking to grow and learn
+- 🔁 Transitioning from Digital Marketing to Web Developer
 - 👨🏽‍💻 2025 Goals: Get my first job as a Developer! Aiming to become a Full Stack Developer
-<br/>
-Looking forward to the new year :)
 
-### Connect with me:
+## 🛠️ Tech Stack
+- 🔷 Languages: TypeScript, Python, Java, C#, HTML, CSS, MySQL
+- ⚛️ Frameworks: React, Express.js, Bootstrap, Tailwind CSS
+- 🧪 Tools & Technologies: Node.js, FFmpeg, Git, RESTful APIs, VSCode
+
+## 📌 Featured Projects
+🎥 [AI Volleyball Video Editor](https://github.com/hobbie71/AI-Volleyball-Video-Editor)
+
+#### Project Goal: Turning raw volleyball footage into polished, YouTube-ready videos
+
+Reduce manual editing time by automating clip cutting, scoreboard insertion, highlight detection, and
+game segmentation 
+
+Currently in progress...
+
+## 📫 Connect with me
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] **LinkedIn**: [linkedin.com/in/javi-learning][linkedin] 
+
+[<img align="center" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email] **Email**: [javierj.tamayo@gmail.com][email]
 
 <br />
-
+<!--
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Website]
@@ -31,7 +47,8 @@ Looking forward to the new year :)
 
 <br/>
 <br/>   
+-->
 
-
-[website]: https://www.Bugsie71.com
 [linkedin]: https://www.linkedin.com/in/javilearning
+[email]: mailto:javierj.tamayo@gmail.com
+[website]: https://www.Bugsie71.com
