@@ -1,59 +1,51 @@
-## 👋 Hey, I'm Javi <!-- [website] -->
+## 👋 Hey, I'm Javi 
 
-<!-- [![Website](https://img.shields.io/badge/BUGSIE71.COM-Go-brightgreen)](https://bugsie71.com) -->
+### 🚀 I'm Full Stack Developer
 
-## ⚙️ I am a Developer and Digital Marketer
-
-- 📈 Always looking to grow and learn  
-- 🔁 Transitioning from Digital Marketing to Web Developer  
-- 👨🏽‍💻 2025 Goals: Get my first job as a Developer! Aiming to become a Full Stack Developer  
-
-## 🛠️ Tech Stack
-- 🔷 Languages: TypeScript, Python, Java, C#, HTML, CSS, SCSS, MySQL  
-- ⚛️ Frameworks: React, FastAPI, Express.js, Tailwind CSS,
-- 🧪 Tools & Technologies: Node.js, Poetry, FFmpeg, Git, RESTful APIs, VSCode  
-
-## 📌 Featured Projects
-
-🎨 Make Code Arcade Sprite Editor
-
-- Repository: [https://github.com/hobbie71/MakeCode-Arcade-Sprite-Generator](https://github.com/hobbie71/MakeCode-Arcade-Sprite-Generator)
-- Live Link: [https://makespritecode.com](https://makespritecode.com)
-
-#### Project Goal: Simplifying sprite creation and game development workflows
-
-An **AI-powered sprite editor** that helps developers and creators generate game-ready sprites.  
-- ✨ AI Sprite Generator for quick asset creation  
-- 🖼️ Image-to-Sprite conversion for retro-style games  
-- 📤 Export options for **JavaScript, Python, and MakeCode Arcade Sprite Editor code**  
+- ✅ **Goal Achieved:** Successfully transitioned to Full Stack Development from Digital Marketing!
+- 🧠 **Current Focus:** Deep diving into AI, Machine Learning, Neural Networks, Deep Learning, etc.
+- 👨🏽‍💻 **2026 Goals:** I want to build things. Not just software, but items you can hold. But for now, I'm focused on building an AI Volleyball Video Editor.
 
 ---
 
-🏐 AI Volleyball Video Editor
+## 🛠️ Tech Stack
 
-- Repository: [https://github.com/hobbie71/AI-Volleyball-Video-Editor](https://github.com/hobbie71/AI-Volleyball-Video-Editor)
+### 💻 Languages & Scripts
+`TypeScript` `JavaScript` `Python` `C#` `C++` `Java` `PHP` `Ruby` `Bash` `HTML` `CSS` `SCSS`
 
-#### Project Goal: Turning raw volleyball footage into polished, YouTube-ready videos  
+### 🏗️ Frameworks & Libraries
+`Next.js` `React.js` `FastAPI` `Express.js` `Django` `Tailwind CSS`
 
-Reduce manual editing time by automating clip cutting, scoreboard insertion, highlight detection, and game segmentation.  
+### 🗄️ Database & State
+`PostgreSQL` `MongoDB` `MySQL` `Drizzle ORM` `JSON`
 
-Currently in progress...  
+### 🛠️ Tools & Infrastructure
+`OpenAI API` `Docker` `AWS` `Render` `Node.js` `Git` `GitHub` `NPM` `Vite` `FFmpeg`
+
+---
+
+## 📌 Featured Projects
+
+### 🎨 Make Code Arcade Sprite Editor
+An **AI-powered sprite editor** that helps developers and creators generate game-ready assets instantly.
+
+- **Repository:** [GitHub](https://github.com/hobbie71/MakeCode-Arcade-Sprite-Generator)
+- **Live Link:** [makespritecode.com](https://makespritecode.com)
+- **Key Features:** AI Sprite Generation, Image-to-Sprite conversion, and multi-language export (JS, Python, MakeCode).
+
+### 🏐 AI Volleyball Editor (Version 2.0)
+*Currently rebuilding from the ground up.*
+
+- **Repository:** [GitHub](https://github.com/hobbie71/Volleyball-Video-Editor)
+- **The Vision:** Moving beyond basic scripts to a complete, end-to-end AI editor.
+- **Goals:** Automating game segmentation, highlight detection using Deep Learning, and dynamic scoreboard overlays to turn raw footage into YouTube-ready content automatically.
+
+---
 
 ## 📫 Connect With Me
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="center" alt="LinkedIn" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin] **LinkedIn**: [linkedin.com/in/javi-learning][linkedin]  
-
 [<img align="center" alt="Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email] **Email**: [javierj.tamayo@gmail.com][email]  
-
-<br />
-
-<!--
-GitHub Icon
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="20px" />]
-Website/Portfolio	Icon
-[<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="20px" />]
--->
 
 [linkedin]: https://www.linkedin.com/in/javilearning
 [email]: mailto:javierj.tamayo@gmail.com
