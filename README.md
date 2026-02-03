@@ -6,8 +6,6 @@
 - 🧠 **Current Focus:** Deep diving into AI, Machine Learning, Neural Networks, Deep Learning, etc.
 - 👨🏽‍💻 **2026 Goals:** I want to build things. Not just software, but items you can hold. But for now, I'm focused on building an AI Volleyball Video Editor.
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Scripts
@@ -20,9 +18,10 @@
 `PostgreSQL` `MongoDB` `MySQL` `Drizzle ORM` `JSON`
 
 ### 🛠️ Tools & Infrastructure
-`OpenAI API` `Docker` `AWS` `Render` `Node.js` `Git` `GitHub` `NPM` `Vite` `FFmpeg`
+`AWS S3` `Docker` `Bun` `NPM` `Node.js` `Git` `GitHub` `Vite` `FFmpeg` `Linear` `Render` `Railway`
 
----
+### 🤖 AI
+`Google Vertex AI` `OpenAI API` `Gemini API` `Claude Code`
 
 ## 📌 Featured Projects
 
@@ -39,8 +38,6 @@ An **AI-powered sprite editor** that helps developers and creators generate game
 - **Repository:** [GitHub](https://github.com/hobbie71/Volleyball-Video-Editor)
 - **The Vision:** Moving beyond basic scripts to a complete, end-to-end AI editor.
 - **Goals:** Automating game segmentation, highlight detection using Deep Learning, and dynamic scoreboard overlays to turn raw footage into YouTube-ready content automatically.
-
----
 
 ## 📫 Connect With Me
 
